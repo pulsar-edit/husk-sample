@@ -1,3 +1,5 @@
+### This Repo is Archived under Pulsar-Edit due to being a sample repo.
+
 # Sample
 
 You need atom-shell-starter on a specific branch for now
